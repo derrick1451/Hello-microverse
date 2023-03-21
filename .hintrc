@@ -1,6 +1,6 @@
 {
   "connector": {
-    "name": "locan",
+    "name": "local",
     "options": {
       "pattern": ["**", "!.git/**", "!node_modules/**"]
     }
