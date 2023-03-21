@@ -64,25 +64,15 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
--[coming soon]
+-mkdir .github/workflows
+-touch .hintrc
+-touch .stylelintrc.json
 
 ### Usage
 
 To run the project, execute the following command:
 
--[coming soon]
-
-### Run tests
-
-To run tests, run the following command:
--[coming soon]
-
-
-### Deployment
-
-You can deploy this project using:
-
--[coming soon]
+-cd myfolder inorder to access the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +93,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](/https://github.com/derrick1451/Hello-microverse/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
