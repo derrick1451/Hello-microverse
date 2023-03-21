@@ -7,7 +7,7 @@
       true,
       {
         "ignoreAtRules": [
-          "tailwinkd",
+          "tailwind",
           "apply",
           "variants",
           "responsive",
